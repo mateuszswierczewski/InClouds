@@ -22,3 +22,6 @@ target/
 .mvn
 mvnw
 mvnw.cmd
+application.properties
+logfile.log.*.gz
+logfile.log
